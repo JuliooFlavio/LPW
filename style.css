@@ -1,0 +1,102 @@
+#start {	
+	background: #1a1aff;
+	border: 1px solid;
+	border-radius: 3px;
+	margin-top: 1%;
+}
+
+.img_logo{
+	padding-left: 10px;
+}
+
+.slogan {
+	font-family: "andale mono",arial,"times new roman",'serif';
+	font-style: normal;
+	font-size: 28px;
+	color: white;
+	text-align: right;
+	margin-right: 20px;
+	text-transform: uppercase;
+	text-shadow: 0px 2px black;
+}
+
+#menu {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	font-family: "andale mono",arial,"times new roman",'serif';
+	text-align: center;
+	background-color: #858585;
+	border: 1px solid;
+	border-radius: 3px;
+}
+
+.menu_item{
+	padding: 2%;
+	font-family: "andale mono",arial,"times new roman",'serif';
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #1a1aff80;
+	border: 1px solid;
+	border-radius: 7px;
+}
+
+#login{
+	text-align: right;
+	padding-right: 2%;
+	padding-bottom: 1%;
+	background-color: #858585;
+	border: 1px solid;
+	border-radius: 3px;
+}
+
+.login_1{
+	padding-top: 2%;
+	text-align: right;
+	font-family: "andale mono",arial,"times new roman",'serif';
+	font-size: 25px;
+
+}
+
+#img_1 {
+	margin-top: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	background-color: #2c75e25d;
+	align:center;
+	border: 1px solid;
+	border-radius: 3px;
+}
+
+#table {
+	padding-top: 2%;
+	font-family: arial,"times new roman",'serif';
+	font-style: normal;
+	font-size: 25px;
+	color: black;
+	float: right;
+}
+
+.src_1 {
+	margin-top: 1%;
+	font-size: 22px;
+	font-family: arial,"times new roman",'serif';
+}
+
+.src_2{
+	font-size: 18px;
+	font-family: arial,"times new roman",'serif';
+		
+}
+
+.src_3{
+	font-family: arial,"times new roman",'serif';
+	font-size: 30px;
+	color: #ffffff;
+	background-color: #1a1aff;
+	margin-top: 2%;
+}
+
+body {
+	background-color: snow;
+}
+	
